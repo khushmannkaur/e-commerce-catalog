@@ -17,7 +17,7 @@ The catalog supports hierarchical categories that may contain subcategories and 
 ```bash
 # install dependencies
 npm install
-
+done 
 # copy example environment variables
 cp .env.example .env
 
